@@ -11,6 +11,7 @@ namespace POOconcepts
         private int _year;
         private int _month;
         private int _day;
+	private int _seconds;
 
         public Date(int year, int month, int day)
         {
